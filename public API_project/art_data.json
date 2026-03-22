@@ -1,0 +1,2723 @@
+{
+    "pagination": {
+        "total": 131552,
+        "limit": 12,
+        "offset": 0,
+        "total_pages": 10963,
+        "current_page": 1,
+        "next_url": "https://api.artic.edu/api/v1/artworks?page=2"
+    },
+    "data": [
+        {
+            "id": 90443,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/90443",
+            "is_boosted": true,
+            "title": "Lever #1",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAMByNsh4PKVyTsOScNKcddiuj8i0rNjHwd7NwuPVyunXy+rd1eri3vLs6vXz7/Py8PPz9/b8//v9/Pr9/QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoCMlyDMpCxQxjVEQhxAAQwgAOw==",
+                "width": 1608,
+                "height": 2250,
+                "alt_text": "Sculpture of wooden panels shaped like an abstract chair with a deep narrow base."
+            },
+            "main_reference_number": "1989.385a-b",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1988,
+            "date_end": 1989,
+            "date_display": "1988/89",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Martin Puryear\nAmerican, born 1941",
+            "place_of_origin": "United States",
+            "description": "<p>Martin Puryear has produced an expertly handcrafted body of sculpture characterized by extreme elegance of form and organic simplicity. Influenced by his travels through Africa, Asia, Europe, and the United States, Puryear fuses modern traditions\u2014his work pays homage to Constantin Br\u00e2ncusi, Jean Arp, and Scandinavian furniture designers\u2014with non-Western architecture, sculpture, and craft. Consisting of a tall, narrow, wood vessel and a dramatically arched top flap that seems poised to slam down upon it, <em>Lever #1</em> exemplifies the artist\u2019s ongoing exploration of the relationship between interior space, form, and volume. The sculpture suggests an array of possible associations, including a deep-hulled boat, a coffin, or sexual themes. It also reflects some of the most celebrated methods of avant-garde art, notably Constructivism and assemblage. While the sculpture alludes to recognizable forms and subjects, Puryear intended for it to remain independent of specific interpretations. The surface is alive with the remnants of glue, staples, and other marks of construction; these residual effects serve as a reminder that, above all else, the work is about the process of making sculpture.</p>\n",
+            "short_description": null,
+            "dimensions": "429.3 \u00d7 340.4 \u00d7 45 cm (169 \u00d7 134 \u00d7 17 3/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": 45,
+                    "width": 340,
+                    "height": 429,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Red cedar, cypress, poplar, and ash",
+            "inscriptions": null,
+            "credit_line": "A. James Speyer Memorial, UNR Industries in honor of James W. Alsdorf, and Barbara Neff Smith and Solomon Byron Smith funds",
+            "catalogue_display": null,
+            "publication_history": "Kellie Jones and Robert Storr, Martin Puryear: 20th International S\u00e3o Paulo Bienal, exh. cat. (Jamaica, N.Y: Jamaica Arts Center, 1989), 2 (color ill.), 15, 49, as Lever. \n\nAlan G. Artner, \u201cShaping Up,\u201d Chicago Tribune, Oct. 1, 1989, 14, as Lever.\n\nMichael Brenson, \u201cA Sculptor\u2019s Struggle to Fuse Culture and Art,\u201d The New York Times, Oct. 29, 1989, H37 (ill.), H39, as Lever.\n\nTerry Y. Allen, \u201cThe Unconventional Eye,\u201d Amherst Magazine (Summer 1990): 16 (ill.).\n\nNany Princenthal, \u201cIntuition\u2019s Disciplinarian,\u201d Art in America 78, no. 1 (Jan. 1990): 130 (ill.), 132, 135 (ill.).\n\nNeal Benezra, Robert Storr, and James N. Wood, Martin Puryear, exh. cat. (Chicago: Art Institute of Chicago, 1991), 48-49, 51 (ills.), 120, 121 (color ill.), 131, 137, cat. 38, 146-147.\n\nSuzanne Muchnic, \"The Handyman: Martin Puryear Stays in Touch with His Sculptures, Bending, Splitting, Molding and Joining His Materials with a Craftsman's Skills,\" Los Angeles Times, Aug 02, 1992, F77, as Lever.\n\nJames N. Wood, T. J Edelstein, and Sally Ruth May, The Art Institute of Chicago: The Essential Guide (Chicago: Art Institute of Chicago, 1993), 285 (color ill.).\n\nLarry Silver, Art in History (New York: Abbeville Press, 1993), 455, fig. 10.30 (ill.), as Lever no. 1.\n\nJan Greenberg and Sandra Jane Fairfax Jordan, The Sculptor\u2019s Eye: Looking at Contemporary American Art (New York: Delacorte Press, 1993), 66 (color ill), 67, 122.\n\nCharles F. Stuckey, \u201cSelected Recent Acquisitions of Twentieth-Century Art at The Art Institute of Chicago: Supplement,\u201d The Burlington Magazine 135, no. 1087 (Oct. 1993): 728 (ill.).\n\nMichael Brenson and Enrique Juncosa, Martin Puryear, exh. cat. (Madrid: Fundaci\u00f3n \"La Caixa,\u201d 1997), 16 (color ill.), fig. 1, as Palanca n.\u00b0 1 / Lever #1\n\nJohn Elderfield, Michael Auping, Elizabeth Reede, Richard J. Powell, and Jennifer Field, Martin Puryear, exh. cat. (New York: Museum of Modern Art, 2007), 38, 40, 143 (color ill.), 166, cat. 29, 183 (color ill., install), 184.\n\nGeneral Reference:\nMarlena Donohue, \u201cThe Galleries: La Cienega Area,\u201d Los Angeles Times, Apr. 21, 1989, 115.\n\nChristopher Knight, \u201cSculptures with a Touch of Nature\u201d Los Angeles Herald Examiner, May 12, 1989, 4. \n\nReto Th\u00fcring, Rizvana Bradley, Joan Kee, Michelle Millar Fisher, and Ugochukwu-Smooth C. Nzewi, Emily Liebert, ed., Martin Puryear: Nexus, exh. cat. (Cleveland: The Cleveland Museum of Art, 2025), 4 (color ill.), 64, cat. 28 (color ill.), 205, cat. 28.",
+            "exhibition_history": "Los Angeles, Margo Leavin Gallery, Martin Puryear, Apr. 15\u2013May 20, 1989, no cat, as Lever.\n\nS\u00e3o Paulo, 20th International S\u00e3o Paulo Bienal, Oct. 14\u2013Dec. 10, 1989, no cat. no., as Lever. \n\nArt Institute of Chicago, Martin Puryear, Nov. 2, 1991\u2013Jan. 5, 1992, cat. 38; Washington D.C., Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Feb. 5-May 10, 1992; Los Angeles, The Museum of Contemporary Art, July 26\u2013Oct. 4, 1992; Philadelphia Museum of Art, Nov. 8, 1992\u2013Jan. 3, 1993. \n\nNew York, The Museum of Modern Art, Puryear, Nov. 4, 2007\u2013Jan. 14, 2008, cat. 29; Fort Worth, Modern Art Museum of Fort Worth, Feb. 24\u2013May 18, 2008, Washington D.C., National Gallery of Art, Smithsonian Institution, June 22\u2013Sept. 28, 2008; San Francisco, San Francisco Museum of Modern Art, Nov. 8, 2008\u2013Jan, 25, 2009.\n\nBoston, Museum of Fine Arts, Martin Puryear: Nexus, Sept. 27, 2025-Feb. 8, 2026, cat. 28; The Cleveland Museum of Art, Apr. 12, 2026-Aug. 9, 2026; Atlanta, High Museum of Art, Sept. 25, 2026-Jan. 17, 2027.",
+            "provenance_text": "The artist; sold through Margo Leavin Gallery, Los Angeles, to the Art Institute of Chicago, July 13, 1989.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 246,
+            "fiscal_year": 1990,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": true,
+            "max_zoom_window_size": 1280,
+            "copyright_notice": "\u00a9 Martin Puryear",
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 57.6001,
+            "color": {
+                "h": 3,
+                "l": 84,
+                "s": 11,
+                "percentage": 0.028751231477572026,
+                "population": 286
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Sculpture",
+            "artwork_type_id": 3,
+            "department_title": "Contemporary Art",
+            "department_id": "PC-8",
+            "artist_id": 36290,
+            "artist_title": "Martin Puryear",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36290
+            ],
+            "artist_titles": [
+                "Martin Puryear"
+            ],
+            "category_ids": [
+                "PC-8",
+                "PC-142",
+                "PC-831",
+                "PC-830"
+            ],
+            "category_titles": [
+                "Contemporary Art",
+                "African American artists",
+                "Essentials",
+                "African Diaspora"
+            ],
+            "term_titles": [
+                "20th Century",
+                "woodworking",
+                "cedar (wood)",
+                "sculpture",
+                "organic shapes",
+                "wood",
+                "modern and contemporary art"
+            ],
+            "style_id": "TM-13130",
+            "style_title": "20th Century",
+            "alt_style_ids": [],
+            "style_ids": [
+                "TM-13130"
+            ],
+            "style_titles": [
+                "20th Century"
+            ],
+            "classification_id": "TM-13",
+            "classification_title": "sculpture",
+            "alt_classification_ids": [
+                "TM-84",
+                "TM-155"
+            ],
+            "classification_ids": [
+                "TM-13",
+                "TM-84",
+                "TM-155"
+            ],
+            "classification_titles": [
+                "sculpture",
+                "wood",
+                "modern and contemporary art"
+            ],
+            "subject_id": "TM-12435",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12435"
+            ],
+            "subject_titles": [
+                "organic shapes"
+            ],
+            "material_id": "TM-3625",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-3625"
+            ],
+            "material_titles": [
+                "cedar (wood)"
+            ],
+            "technique_id": "TM-4248",
+            "alt_technique_ids": [],
+            "technique_ids": [
+                "TM-4248"
+            ],
+            "technique_titles": [
+                "woodworking"
+            ],
+            "theme_titles": [
+                "African American artists",
+                "Essentials",
+                "African Diaspora"
+            ],
+            "image_id": "53aa98dd-4a2d-e406-f821-843a85c833d6",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_boosted": "Lever #1",
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1989.385a-b"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Lever #1"
+                    ],
+                    "weight": 2367,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:57:03-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 91610,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/91610",
+            "is_boosted": false,
+            "title": "Vessel with a Relief Depicting a Procession of Deceased Figures",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAJR2YZN5Z6eMdrKWgaqlnqusrq+vr7CtqK2usK+wsbGytLO1uLm6u7u9vcHAvsLAvsDCw8LDwsnJyMvLygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURIGIkxXIQSjMIDAQE0PQ8UwgAOw==",
+                "width": 4809,
+                "height": 6413,
+                "alt_text": "A work made of ceramic and pigment."
+            },
+            "main_reference_number": "1955.2329",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": -100,
+            "date_end": 500,
+            "date_display": "100 BCE\u2013500 CE",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Moche\nNorth coast, Peru",
+            "place_of_origin": "Moche Valley",
+            "description": null,
+            "short_description": null,
+            "dimensions": "20 \u00d7 12.7 cm (7 7/8 \u00d7 5 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 12,
+                    "height": 20,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Ceramic and pigment",
+            "inscriptions": null,
+            "credit_line": "Kate S. Buckingham Endowment",
+            "catalogue_display": null,
+            "publication_history": "Leon Goldman and Alan R. Sawyer, \u201cAncient Peruvian Medicine,\u201d <em>Journal of the History of Medicine and Allied Science</em> 13, 1 (Jan., 1958): 14, fig. 4 (ill. lower right).",
+            "exhibition_history": "Chicago, Field Museum of Natural History, <em>Death: Life's Greatest Mystery</em>, Oct. 22, 2022\u2013Sept. 4, 2023; Royal Ontario Museum, Ontario, Oct. 28, 2023\u2013Apr. 7, 2024, no cat.",
+            "provenance_text": "Eduard Gaffron (1861\u20131931), Lima, Peru, from 1892 to 1912, then Berlin, from 1912 [History of the Department report (Joanne Behrens, 1985) and correspondence in curatorial file]; by descent to his children Mercedes Gaffron (1908\u20131993), Berlin then Durham, NC, and Hans Gaffron (1902\u20131979), Berlin then Chicago [correspondence and documentation of the Gaffron Collection in curatorial file]; sold to the Art Institute of Chicago, 1955.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 21,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 218,
+                "l": 69,
+                "s": 1,
+                "percentage": 0.014808633832355436,
+                "population": 4567
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan to Royal Alberta Museum in Edmonton for <i>Death: Life's Greatest Mystery</i></p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Ceramics",
+            "artwork_type_id": 36,
+            "department_title": "Arts of the Americas",
+            "department_id": "PC-3",
+            "artist_id": 30183,
+            "artist_title": "Moche",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                30183
+            ],
+            "artist_titles": [
+                "Moche"
+            ],
+            "category_ids": [
+                "PC-829",
+                "PC-3"
+            ],
+            "category_titles": [
+                "Latin American",
+                "Arts of the Americas"
+            ],
+            "term_titles": [
+                "earthenware",
+                "ceramic",
+                "moche",
+                "figures",
+                "inorganic material",
+                "mochica",
+                "early intermediate period",
+                "Pre-Columbian",
+                "americas",
+                "art of the americas",
+                "ceramics",
+                "vessel",
+                "Arts of the Americas",
+                "andean",
+                "andes",
+                "south american",
+                "procession",
+                "death",
+                "vessels"
+            ],
+            "style_id": "TM-12868",
+            "style_title": "moche",
+            "alt_style_ids": [
+                "TM-6776",
+                "TM-6755",
+                "TM-6516",
+                "TM-6515",
+                "TM-13488",
+                "TM-13504",
+                "TM-12988",
+                "TM-13434"
+            ],
+            "style_ids": [
+                "TM-12868",
+                "TM-6776",
+                "TM-6755",
+                "TM-6516",
+                "TM-6515",
+                "TM-13488",
+                "TM-13504",
+                "TM-12988",
+                "TM-13434"
+            ],
+            "style_titles": [
+                "moche",
+                "mochica",
+                "early intermediate period",
+                "Pre-Columbian",
+                "americas",
+                "Arts of the Americas",
+                "andean",
+                "andes",
+                "south american"
+            ],
+            "classification_id": "TM-74",
+            "classification_title": "earthenware",
+            "alt_classification_ids": [
+                "TM-13487",
+                "TM-46",
+                "TM-27"
+            ],
+            "classification_ids": [
+                "TM-74",
+                "TM-13487",
+                "TM-46",
+                "TM-27"
+            ],
+            "classification_titles": [
+                "earthenware",
+                "art of the americas",
+                "ceramics",
+                "vessel"
+            ],
+            "subject_id": "TM-15161",
+            "alt_subject_ids": [
+                "TM-14292",
+                "TM-12097",
+                "TM-12879"
+            ],
+            "subject_ids": [
+                "TM-15161",
+                "TM-14292",
+                "TM-12097",
+                "TM-12879"
+            ],
+            "subject_titles": [
+                "figures",
+                "procession",
+                "death",
+                "vessels"
+            ],
+            "material_id": "TM-2432",
+            "alt_material_ids": [
+                "TM-2600"
+            ],
+            "material_ids": [
+                "TM-2432",
+                "TM-2600"
+            ],
+            "material_titles": [
+                "ceramic",
+                "inorganic material"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [
+                "Latin American"
+            ],
+            "image_id": "7e49b78a-3c17-09f5-4117-b3fc58aed42e",
+            "alt_image_ids": [
+                "b53740ed-9281-0d7f-09f5-3a54e7e2f938",
+                "52e5cee3-b557-edcc-2b46-5d9000cbc0d7",
+                "f2e21529-c9e8-1708-3e82-e33680b0c9e0"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1955.2329"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Vessel with a Relief Depicting a Procession of Deceased Figures"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:57:02-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92195,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92195",
+            "is_boosted": false,
+            "title": "Ironwork",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEVBPklFQUtHRE1JRVBNSV5ZVV5aVW1nYW9pY3BqZHFtZ3JtaHFuaYF6c4qFf5SOiJ2XkZ+alaeinbu1rwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURYBEUzMMQAzQ5gCJFQoMkRwgAOw==",
+                "width": 6369,
+                "height": 8789,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.53",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1931,
+            "date_end": 1931,
+            "date_display": "1931",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": null,
+            "short_description": null,
+            "dimensions": "21.4 \u00d7 15.1 (image); 22.7 \u00d7 17.1 (paper)",
+            "dimensions_detail": [],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Inscribed recto, on hinged paper, lower right, below image, in graphite: \"lee miller. / Paris 1931\"; verso unchecked",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Travis, David. 1976. \u201cPhotographs from the Julien Levy Collection: Starting with Atget.\u201d Exh. cat. p. 18, cat. 84.\n\nKrauss, Rosalind and Jane Livingston. 1985. \"L'Amour Fou - Photography and Surrealism.\" Cross River Press, Ltd. Exh. cat. p. 222, fig. 206\n\nLivingston, Jane. 1989. \u201cLee Miller: Photographer.\u201d Exh. cat. California/International Arts Foundation/Thames and Hudson. p. 30. (alternate title, alternate date) \n\nHaworth-Booth, Mark. 2007. \"The Art of Lee Miller.\" Exh. cat. V&A Publications/Yale University Press. p. 65, fig. 49.",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery, \"L'Amour Fou: Photography and Surrealism,\" September 14, 1985\u2013November 17, 1985; traveled to San Francisco Museum of Modern Art, December 13, 1985\u2013February, 1986; Paris, France, Centre Georges Pompidou, April 15\u2013June 16, 1985; London, England, Hayward Gallery, July 10\u2013October 3, 1986.\n\nWashington, D.C., Corcoran Gallery of Art, \"Lee Miller: Photographer,\" February 11-April 17, 1989; traveled to New Orleans Museum of Art, July 15-August 20, 1989; Minneapolis Institute of Art, November 4-January 7, 1990; San Francisco Museum of Modern Art, February 2-April 1, 1990 (?); International Center of Photography, New York, April 13-June 10, 1990; Art Institute of Chicago, June 23-August 26, 1990; Santa Monica Museum of Art, September 16-November 4, 1990; Yokohama Museum of Art, Japan, January 26-February 25, 1991.\n\nColumbus, Ohio, Wexner Center for the Arts, \"Staging Surrealism: A Succession of Collections 2,\" September 20, 1997\u2013January 4, 1998.\n\nLondon, England, Victoria & Albert Museum, \"The Art of Lee Miller,\" September 15, 2007\u2013January 6, 2008; traveled to the Philadelphia Museum of Art, January 26\u2013 April 27, 2008; San Francisco Museum of Art, May 29\u2013September 2, 2008; Paris, France, Jeu de Paume, October 14, 2008\u2013January 11, 2009.\n\nSan Francisco, California, Fine Arts Museums of San Francisco, \"Man Ray/Lee Miller: Partners in Surrealism,\" July 14, 2012-October 12, 2012. (Julian Cox)",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "a21c5ee9-d46e-f761-bb21-9aee68c7b328",
+            "alt_image_ids": [
+                "6f8c39d4-9df1-5b07-e848-42be6f5815dd"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.53"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ironwork"
+                    ],
+                    "weight": 122,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:57:01-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92194,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92194",
+            "is_boosted": false,
+            "title": "Hand",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABYUERcUESMgHTYyLjYzLz85M11ZVGNfWWllYXRvaIF6cYaBe4qFf46If6iflK6mmquln7+4sdTOx9nSyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAUQoAAQzWgkB7REjIRMxaM4IQA7",
+                "width": 7952,
+                "height": 9088,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.52",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1924,
+            "date_end": 1934,
+            "date_display": "1931",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": null,
+            "short_description": null,
+            "dimensions": "Image/paper: 24.2 \u00d7 22.2 cm (9 9/16 \u00d7 8 3/4 in.); Mount: 25.7 \u00d7 22.5 cm (10 1/8 \u00d7 8 7/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 22,
+                    "height": 24,
+                    "diameter": null,
+                    "clarification": "Image/paper"
+                },
+                {
+                    "depth": null,
+                    "width": 22,
+                    "height": 25,
+                    "diameter": null,
+                    "clarification": "Mount"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Inscribed recto, on hinged paper, lower right, in graphite: \"lee miller.Paris / 1931\"; verso unchecked",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Krauss, Rosalind and Jane Livingston. 1985. \"L'Amour Fou - Photography and Surrealism.\" Cross River Press, Ltd. Exh. cat. p. 223, fig. 209\n\nLivingston, Jane. 1989. \u201cLee Miller: Photographer.\u201d Exh. cat. California/International Arts Foundation/Thames and Hudson. p. 111.\n\nDe Salvo, Donna. 1997. \"Staging Surrealism: A Succession of Collections 2.\" Exh. cat. Wexner Center for the Arts, The Ohio State University. p. 57.",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery, \"L'Amour Fou: Photography and Surrealism,\" September 14, 1985\u2013November 17, 1985; traveled to San Francisco Museum of Modern Art, December 13, 1985\u2013February, 1986; Paris, France, Centre Georges Pompidou, April 15\u2013June 16, 1985; London, England, Hayward Gallery, July 10\u2013October 3, 1986.\n\nColumbus, Ohio, Wexner Center for the Arts, \"Staging Surrealism: A Succession of Collections 2,\" September 20, 1997\u2013January 4, 1998.\n\nArt Institute of Chicago, \"Photography on Display: Modern Treasures,\" May 9\u2013September 13, 2009.\n\nSan Francisco, California, Fine Arts Museums of San Francisco, \"Man Ray/Lee Miller: Partners in Surrealism,\" July 14, 2012-October 12, 2012. (Julian Cox)",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 37,
+                "l": 56,
+                "s": 6,
+                "percentage": 0.0003320982231416669,
+                "population": 240
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "90936ae5-8edb-b12b-e21d-052cb9acb46a",
+            "alt_image_ids": [
+                "d8003155-b246-f7a1-a869-bff93d4a1c4c"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.52"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Hand"
+                    ],
+                    "weight": 109,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:57:01-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92196,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92196",
+            "is_boosted": false,
+            "title": "Nude Bent Forward, Paris",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEU/O0ZAO0VBPFFMRl1XUF1ZUV5ZUmFaU2ZgWGdgWGpjW29oX3BpYHdwZ352bIZ+c4yFepGJfpuTh6aekQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURILAoQTNFDCJBxFAUwnMgTggAOw==",
+                "width": 6561,
+                "height": 7802,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.54",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1925,
+            "date_end": 1935,
+            "date_display": "c. 1930",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": "<p>Lee Miller began her career as a model in New York during the 1920s, eventually posing for celebrated photographers Edward Steichen and Arnold Genthe. In 1929 she moved to Paris, where she began to develop her own artistic ideas while assisting and then collaborating with Man Ray, a key member of the Surrealist movement. Miller mastered lighting and printing techniques; she also gained a reputation for portraits, fashion photography, and experimental compositions, such as this nude study, with Surrealist themes. In this picture the nude is presented as a modernist sculpture: armless, legless, and with an upended backside that suggests a profound reorientation of the human body. Her male contemporaries\u2014Man Ray, but also Edward Weston\u2014created similar works, but with more overtly erotic connotations. Miller, by contrast, deployed the camera\u2019s potential to render anatomy disquieting while avoiding the offering of sexual titillation.</p>\n",
+            "short_description": null,
+            "dimensions": "Image: 20 \u00d7 17.5 cm (7 7/8 \u00d7 6 15/16 in.); Mount: 33.2 \u00d7 26.1 cm (13 1/8 \u00d7 10 5/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 17,
+                    "height": 20,
+                    "diameter": null,
+                    "clarification": "Image"
+                },
+                {
+                    "depth": null,
+                    "width": 26,
+                    "height": 33,
+                    "diameter": null,
+                    "clarification": "Mount"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Stamped on mount verso (Paris); signed, on mount, lower right, in graphite",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Rosalind, Krauss and Jane Livingston. 1985. \"L'Amour Fou: Photography and Surrealism.\" Cross River Press, Ltd. Exh. cat. p. 151, fig. 133.\n\nLivingston, Jane. 1989. \"Lee Miller: Photographer.\" California/International Arts Foundation/Thames and Hudson Inc. p. 24.\n\nHaworth-Booth, Mark. 2007. \"The Art of Lee Miller.\" Exh. cat. V&A Publications/Yale University Press. p. 86, fig. 70.",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery, \"L'Amour Fou: Photography and Surrealism,\" September 14, 1985\u2013November 17, 1985; traveled to San Francisco Museum of Modern Art, December 13, 1985\u2013February, 1986; Paris, France, Centre Georges Pompidou, April 15\u2013June 16, 1985; London, England, Hayward Gallery, July 10\u2013October 3, 1986.\n\nWashington, D.C., Corcoran Gallery of Art, \"Lee Miller: Photographer,\" February 11-April 17, 1989; traveled to New Orleans Museum of Art, July 15-August 20, 1989; Minneapolis Institute of Art, November 4-January 7, 1990; San Francisco Museum of Modern Art, February 2-April 1, 1990 (?); International Center of Photography, New York, April 13-June 10, 1990; Art Institute of Chicago, June 23-August 26, 1990; Santa Monica Museum of Art, September 16-November 4, 1990; Yokohama Museum of Art, Japan, January 26-February 25, 1991.\n\nNew York, New York, Whitney Museum of American Art, \"Convulsive Beauty: The Impact of Surrealism on American Art,\" June 23\u2013August 27, 1988.\n\nArt Institute of Chicago, \"Sights Unseen: Photographs from the Permanent Collection,\" October 16-March 13, 1994. \n\nArt Institute of Chicago, \"Brassai and Company,\" January 24-May 17, 1998. (David Travis) \n\nLondon, England, Tate Modern, \"Surrealism: Desire Unbound,\" September 20\u2013December 16, 2001; traveled to Metropolitan Museum of Art, January 28\u2013May 6, 2002.\n\nLos Angeles, CA, J. Paul Getty Museum, \"Surrealist Muse: Lee Miller, Roland Penrose, Man Ray, 1925\u20131945,\" February 25\u2013June 15, 2003.\n\nLondon, England, Victoria & Albert Museum, \"The Art of Lee Miller,\" September 15, 2007\u2013January 6, 2008; traveled to the Philadelphia Museum of Art, January 26\u2013 April 27, 2008; San Francisco Museum of Art, May 29\u2013September 2, 2008; Paris, France, Jeu de Paume, October 14, 2008\u2013January 11, 2009.\n\nSan Francisco, California, Fine Arts Museums of San Francisco, \"Man Ray/Lee Miller: Partners in Surrealism,\" July 14, 2012-October 12, 2012. (Julian Cox)\n\nArt Institute of Chicago, Gallery 10 Permanent Collection Rotation, November 23, 2013\u2013May 4, 2014.",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-53",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Figure",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "adc1c364-c537-227a-9f65-18378198d3a2",
+            "alt_image_ids": [
+                "b96a3e56-60ba-3c16-415b-3c2fc9eecc74"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.54"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Nude Bent Forward, Paris"
+                    ],
+                    "weight": 1980,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:57:00-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92197,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92197",
+            "is_boosted": false,
+            "title": "Sculpture in Window, Paris",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACckIS4pJi4qKDQwLTgzLzk2MTo2MT45ND45NT86NEA8NkI/OUlEPUpFQGZhWmdiXIF5b4R7cIV9cwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAUQICIywgMEg9MQRbEokARFIQA7",
+                "width": 6381,
+                "height": 7698,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.55",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1930,
+            "date_end": 1930,
+            "date_display": "1930",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": null,
+            "short_description": null,
+            "dimensions": "Image/paper: 19.6 \u00d7 17.1 cm (7 3/4 \u00d7 6 3/4 in.); Mount: 33.2 \u00d7 26.1 cm (13 1/8 \u00d7 10 5/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 17,
+                    "height": 19,
+                    "diameter": null,
+                    "clarification": "Image/paper"
+                },
+                {
+                    "depth": null,
+                    "width": 26,
+                    "height": 33,
+                    "diameter": null,
+                    "clarification": "Mount"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Inscribed recto, on mount, lower right, below image, in graphite: lee miller. Paris / 1930; verso unchecked",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Livingston, Jane. 1989. \u201cLee Miller: Photographer.\u201d Exh. cat. California/International Arts Foundation/Thames and Hudson. illus. p. 23 (alternate date), \np. 37. \n\nTravis, David. 2005. \"Paris: Photographs from a Time that Was.\" Art Institute of Chicago/Yale University Press. p. 52.\n\nHaworth-Booth, Mark. 2007. \"The Art of Lee Miller.\" Exh. cat. V&A Publications/ Yale University Press. p. 57. fig. 41.",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery, \"L'Amour Fou: Photography and Surrealism,\" September 14, 1985\u2013November 17, 1985; traveled to San Francisco Museum of Modern Art, December 13, 1985\u2013February, 1986; Paris, France, Centre Georges Pompidou, April 15\u2013June 16, 1985; London, England, Hayward Gallery, July 10\u2013October 3, 1986.\n\nWashington, D.C., Corcoran Gallery of Art, \"Lee Miller: Photographer,\" February 11-April 17, 1989; traveled to New Orleans Museum of Art, July 15-August 20, 1989; Minneapolis Institute of Art, November 4-January 7, 1990; San Francisco Museum of Modern Art, February 2-April 1, 1990 (?); International Center of Photography, New York, April 13-June 10, 1990; Art Institute of Chicago, June 23-August 26, 1990; Santa Monica Museum of Art, September 16-November 4, 1990; Yokohama Museum of Art, Japan, January 26-February 25, 1991.\n\nArt Institute of Chicago, \"The Human Form Divine: The Body as Seen by the Camera,\" February 8\u2013June 1, 2003. (Colin Westerbeck)\n\nArt Institute of Chicago, \"Paris:  Photographs from a Time that Was\"; August 13\u2013November 6, 2005. (David Travis)\n\nLondon, England, Victoria & Albert Museum, \"The Art of Lee Miller,\" September 15, 2007\u2013January 6, 2008; traveled to the Philadelphia Museum of Art, January 26\u2013 April 27, 2008; San Francisco Museum of Art, May 29\u2013September 2, 2008; Paris, France, Jeu de Paume, October 14, 2008\u2013January 11, 2009.\n\nVancouver, British Columbia, Vancouver Art Gallery, \"The Colour of My Dreams: The Surrealist Revolution in Art,\" May 28\u2013September 25, 2011.\n\nArt Institute of Chicago, Gallery 10 Permanent Collection Rotation #16, May 06-October 27, 2019.",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 37,
+                "l": 37,
+                "s": 6,
+                "percentage": 0.0015248080156775507,
+                "population": 749
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-53",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Figure",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "85d66278-f9fc-b4e3-15cf-7b480909141a",
+            "alt_image_ids": [
+                "402fcf49-90e3-792c-3bf3-533e6d0c29fe"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.55"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Sculpture in Window, Paris"
+                    ],
+                    "weight": 191,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:59-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92198,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92198",
+            "is_boosted": false,
+            "title": "Woman with Hand on Head, Paris",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAERCP0dEP0lHREtJRmllXm5pYW9rZXBtaXZya3dza3l0bYJ/eo+JgY+LhZKLga6mma+nnK2nnsvBtODXzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURYIEwjnE0iCIMQbQAhDRFTwgAOw==",
+                "width": 6499,
+                "height": 8416,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.56",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1931,
+            "date_end": 1931,
+            "date_display": "1931",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": null,
+            "short_description": null,
+            "dimensions": "Image/paper: 21.8 \u00d7 17.4 cm (8 5/8 \u00d7 6 7/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 17,
+                    "height": 21,
+                    "diameter": null,
+                    "clarification": "Image/paper"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Inscribed recto, on hinged paper, lower right, below image, in graphite: lee miller. Paris / '31; stamped verso, on secondary support, upper right, in black ink: JULIEN LEVY GALLERY, INC. \n 18 EAST 57TH STREET / NEW YORK CITY; verso, on secondary support, center, in black ink: LEE MILLER / 12, Rue Victor-Consid\u00e9rant / Paris XIVe Danton 90-91",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Livingston, Jane. 1989. \"Lee Miller: Photographer.\" Exh. cat. California/International Arts Foundation/Thames and Hudson Inc. p. 115. \n\nSchaffner, Ingrid and Lisa Jacobs. 1998. \"Julien Levy: Portrait of an Art Gallery.\" Exh. cat. The MIT Press. p. 117, pl. 24.\n\nHaworth-Booth, Mark. 2007. \"The Art of Lee Miller.\" Exh. cat. V&A Publications/Yale University Press. p. 71, fig. 55. \n\nMatthew S. Witkovsky et al., \"The Art Institute of Chicago Field Guide to Photography and Media,\" eds. Antawan I. Byrd, Elizabeth Siegel, and Carl Fuldner, pl. 119, p. 133 (Chicago: Art Institute of Chicago, 2023).",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery of Art, \"Lee Miller: Photographer,\" February 11-April 17, 1989; traveled to New Orleans Museum of Art, July 15-August 20, 1989; Minneapolis Institute of Art, November 4-January 7, 1990; San Francisco Museum of Modern Art, February 2-April 1, 1990 (?); International Center of Photography, New York, April 13-June 10, 1990; Art Institute of Chicago, June 23-August 26, 1990; Santa Monica Museum of Art, September 16-November 4, 1990; Yokohama Museum of Art, Japan, January 26-February 25, 1991.\n\nNew York, New York, The Equitable Gallery, \"Julien Levy: Portrait of an Art Gallery,\" August 13\u2013October 31, 1998.\n\nLos Angeles, CA, The J. Paul Getty Museum, \"Surrealist Muse: Lee Miller, Roland Penrose, Man Ray, 1925-1945,\" February 25\u2013June 15, 2003.\n\nLondon, England, Victoria & Albert Museum, \"The Art of Lee Miller,\" September 15, 2007\u2013January 6, 2008; traveled to the Philadelphia Museum of Art, January 26\u2013 April 27, 2008; San Francisco Museum of Art, May 29\u2013September 2, 2008; Paris, France, Jeu de Paume, October 14, 2008\u2013January 11, 2009.\n\nArt Institute of Chicago, \"Photography on Display: Modern Treasures,\" May 9\u2013September 13, 2009.\n\nSan Francisco, California, Fine Arts Museums of San Francisco, \"Man Ray/Lee Miller: Partners in Surrealism,\" July 14, 2012-October 12, 2012. (Julian Cox)",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 37,
+                "l": 49,
+                "s": 4,
+                "percentage": 0.001554055991065019,
+                "population": 850
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "c44e596a-0744-5aab-46ee-1011d8a9b65e",
+            "alt_image_ids": [
+                "241d7f11-8f33-bf97-30b1-e544eeaa09bc"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.56"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Woman with Hand on Head, Paris"
+                    ],
+                    "weight": 128,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:58-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 94131,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/94131",
+            "is_boosted": false,
+            "title": "On the Terrace of a Hotel in Bordighera: The Painter Jean Martin Reviews His Bill (Illustration for Edmond Renoir\u2019s \u201cL\u2019\u00e9tiquette\u201d)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAKCajq6om7Ovo7Svorq2qbq3q765qb65q7y4rL+8r8G7qcG8rcK+ssbCs8jEt8vHts3ItMvHuNLPvtLQwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURINQskRIcjgEMzEMghTQJSQgAOw==",
+                "width": 1762,
+                "height": 2250,
+                "alt_text": "A work made of black cont\u00e9 crayon over pen and brush and black ink on ivory laid paper (discolored to cream)."
+            },
+            "main_reference_number": "1977.491",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1883,
+            "date_end": 1883,
+            "date_display": "1881",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Pierre Auguste Renoir\nFrench, 1841-1919",
+            "place_of_origin": "France",
+            "description": null,
+            "short_description": null,
+            "dimensions": "45.2 \u00d7 35.4 cm (17 13/16 \u00d7 13 15/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 35,
+                    "height": 45,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Black cont\u00e9 crayon over pen and brush and black ink on ivory laid paper (discolored to cream)",
+            "inscriptions": null,
+            "credit_line": "Helen Regenstein Collection",
+            "catalogue_display": null,
+            "publication_history": "Edmond Renoir, \u201cL\u2019\u00e9tiquette,\u201d La vie moderne 50 (Dec. 15, 1883), p. 803 (ill.).\n\nGeorges Rivi\u00e8re, Renoir et ses amis (H. Floury, 1921), opposite p. 192 (ill.).\n\nCharles L\u00e9ger, \u201cRenoir illustrateur,\u201d L\u2019art vivant 168 (Jan. 1933), p. 8 (ill.).\n\nJohn Rewald, \u201cAuguste Renoir and His Brother,\u201d Gazette des beaux-arts 27 (Mar. 1945), pp. 172, no. 2 (ill.), 186.\n\nJohn Rewald, Renoir Drawings (H. Bittner, 1946), p. 18, no. 24 (ill.).\n\nWalter Pach, Renoir (Abrams, 1950), p. 20 (ill.).\n\nPhoebe Pool, Impressionism (Oxford University Press, 1969), pp. 152, no. 114 (ill.), 153, 277.\n\nWalter Pach, Auguste Renoir: Leben und Werk (M. Dumont Schauberg, 1976), pp. 72, no. 42 (ill.), 73, 173.\n\nHarold Joachim and Sandra Haller Olsen, French Drawings and Sketchbooks of the Nineteenth Century, vol. 2 (University of Chicago Press, 1979), p. 90, no. 5D7.\n\nNicholas Wadley, Renoir: A Retrospective (Hugh Lauter Levin, 1987), p. 130 (ill.).\n\nNatalia Brodskaya, Auguste Renoir: He Made Colour Sing (Parkstone, 1996), p. 33 (ill.).\n\nDouglas W. Druick, Renoir, Artists in Focus (Art Institute of Chicago/Abrams, 1997), pp. 41, 44, 90, no. 9 (ill.), 110.\n\nMartha Tedeschi, \u201cPierre Auguste Renoir, Workers\u2019 Daughters on the Outer Boulevard (Illustration for Emile Zola\u2019s \u2018L\u2019Assommoir\u2019), 1877/78,\u201d in \u201cMaineri to Mir\u00f3: The Regenstein Collection since 1975,\u201d special issue, Art Institute of Chicago Museum Studies 26, 1 (2000), pp. 80\u201381, no. 35 (ill.).\n\nSuzanne Folds McCullagh, \u201c\u2018A Lasting Monument\u2019: The Regenstein Collection at the Art Institute of Chicago,\u201d special issue, Art Institute of Chicago Museum Studies 26, 1 (2000), p. 13.\n\nGuy-Patrice Dauberville and Michel Dauberville, with the collaboration of Camille Fr\u00e9montier-Murphy, Renoir: Catalogue raisonn\u00e9 des tableaux, pastels, dessins, et aquarelles, vol. 1, 1858\u20131881 (Bernheim-Jeune, 2007), p. 621, no. 672 (ill.).\n\n\u201cCat. 12: On the Terrace of a Hotel in Bordighera: The Painter Jean Martin Reviews His Bill (Illustration for Edmond Renoir\u2019s \u201cL\u2019\u00e9tiquette\u201d),\u201d in Renoir Paintings and Drawings at the Art Institute of Chicago, ed. Gloria Groom and Jill Shaw (Art Institute of Chicago, 2014), <a href=\"https://publications.artic.edu/renoir/reader/paintingsanddrawings/section/138973\">https://publications.artic.edu/renoir/reader/paintingsanddrawings/section/138973</a>.",
+            "exhibition_history": "Art Institute of Chicago, \"Great Drawings from The Art Institute of Chicago: The Harold Joachim Years, 1958\u20131983,\" July 24\u2013Sept. 30, 1985, pp.156-57, cat. 71 (ill.); Saint Louis Art Museum, Mar. 10\u2013May 16, 1986.\n\nArt Institute of Chicago, \"Masterpieces from the Helen Regenstein Collection,\" Feb. 2\u2013May 8, 1990, no cat.\n\nArt Institute of Chicago, \"Maineri to Miro: The Regenstein Collection,\" Apr. 22\u2013July 16, 2000, no cat.\n\nVienna, Albertina, \"Impressionism: Pastels, Watercolors, Drawings,\" Feb. 9\u2013May 13, 2012, p. 238, pl. 137.\n\nNew York, Morgan Library and Museum, \"Renoir's Drawings\", October 17, 2025 - February 8, 2016, traveled to Paris, Mus\u00e9e d'Orsay, March 17 - July 5, 2026, p. 70, cat. 50, cat. by Colin B. Bailey, et. al.",
+            "provenance_text": "Charlotte Labille (1889\u20131963), Paris, by Jan. 1, 1925 [According to notes in the curatorial object file, there was an inscription on the back of the old mount, in pen and blue ink, which partially reads: Le dessin a la plume de P.A. Renoir, mon frere et me representant assis lisant au bord de la mediterranee est la propriete de Charlotte Labille/ Paris, 1 janvier 1925/ Edmond Renoir.  The mount is now lost. Correspondence in the Paul Rosenberg Gallery Archive confirm that Charlotte Labille was a regular client of Rosenberg\u2019s during the 1920s.].   Paul Rosenberg (1881\u20131959), Paris and Bordeaux, by Sept. 15, 1940 [See pre\u2013World War II Paul Rosenberg Gallery, stock card number 1346 (the handwriting is nearly illegible; it could also be 8846)]; confiscated by the Einsatzstab Reichsleiter Rosenberg (ERR), Sept. 15, 1940 [ERR card PR 154]; selected by Walter Andreas Hofer (1893\u2013c. 1971) at the Jeu de Paume, Paris, for Hermann Goering (1893\u20131946) and transferred from the ERR to Goering, Dec. 2, 1941 [See ERR card PR 154. Also see the Office of Strategic Services, Art Looting Investigation Unit, Consolidated Interrogation Report, no. 2: The Goering Collection (Sept. 15, 1945), pp. 133\u201334; attachment 1; and attachment 5, p. 11, no. 144. Notes on the back of the ERR\u2019s photograph of the drawing confirm that it was no. 144 in the Goering inventory.]; exchanged by Hermann Goering, with Hans Wendland (born 1880) and Theodor Fischer (1878\u20131957), Lucerne, via Walter Andreas Hofer, early 1942 [See Office of Strategic Services, Art Looting Investigation Unit, Consolidated Interrogation Report, no. 2: The Goering Collection (Sept. 15, 1945), pp. 133\u201334. See also Records of the American Commission for the Protection and Salvage of Artistic and Historical Monuments in War Areas (Roberts Commission), 1943\u201346, letter from the Commercial Secretariat of the British Legation in Berne, dated Dec. 29, 1944.]; returned to Paul Rosenberg, New York, June 3, 1948 [In a private lawsuit against Theodor Fischer, a Lucerne tribunal ruled in Rosenberg\u2019s favor on June 3, 1948, and ordered the picture returned. See Lynn H. Nichols, The Rape of Europa: The Fate of Europe\u2019s Treasures in the Third Reich and the Second World War (Knopf, 1994), pp. 419\u201320.]; probably sold by the Rosenberg family to E. V. Thaw and Company (founded 1950), New York, c. 1977 [After its restitution, the drawing was part of the Rosenberg family private collection rather than gallery stock. As a result, the Rosenberg Gallery Archives do not have a record of the sale or transfer of this drawing to E. V. Thaw and Company (founded by Eugene Victor Thaw [born 1927]). Paul Rosenberg\u2019s daughter-in-law, Mrs. Elaine Rosenberg, confirmed that the drawing was in their collection, hanging in the hallway of the New York residence, until transferred to E. V. Thaw and Company in the 1970s (private communication with Mrs. Elaine Rosenberg, June 2, 2014).]; sold by E. V. Thaw and Company, New York, to the Art Institute of Chicago, 1977.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": 1978,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": true,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 10.8204,
+            "color": {
+                "h": 37,
+                "l": 50,
+                "s": 7,
+                "percentage": 0.024143724616015556,
+                "population": 219
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan to Mus\u00e9e d'Orsay in Paris for <i>Renoir's Drawings</i></p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 36351,
+            "artist_title": "Pierre-Auguste Renoir",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36351
+            ],
+            "artist_titles": [
+                "Pierre-Auguste Renoir"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "pen and ink drawings",
+                "paper (fiber product)",
+                "black ink",
+                "colored ink",
+                "ink",
+                "coating (material)",
+                "black cont\u00e9 crayon",
+                "Cont\u00e9 crayon (TM)",
+                "fabricated chalk",
+                "crayons",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-212",
+            "classification_title": "pen and ink drawings",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-212",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "pen and ink drawings",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2465",
+                "TM-2539",
+                "TM-2398",
+                "TM-3238",
+                "TM-2551",
+                "TM-2449",
+                "TM-3789",
+                "TM-2418"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2465",
+                "TM-2539",
+                "TM-2398",
+                "TM-3238",
+                "TM-2551",
+                "TM-2449",
+                "TM-3789",
+                "TM-2418"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "black ink",
+                "colored ink",
+                "ink",
+                "coating (material)",
+                "black cont\u00e9 crayon",
+                "Cont\u00e9 crayon (TM)",
+                "fabricated chalk",
+                "crayons"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "e406e261-8d27-d3b5-658d-751d79d03ff2",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [
+                36744080881
+            ],
+            "section_titles": [
+                "Cat. 12 \u00a0On the Terrace of a Hotel in Bordighera: The Painter Jean Martin Reviews His Bill (Illustration for Edmond\u00a0Renoir\u2019s \u201cL\u2019\u00e9tiquette\u201d), 1881"
+            ],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1977.491"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "On the Terrace of a Hotel in Bordighera: The Painter Jean Martin Reviews His Bill (Illustration for Edmond Renoir\u2019s \u201cL\u2019\u00e9tiquette\u201d)"
+                    ],
+                    "weight": 756,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:57-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 92199,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/92199",
+            "is_boosted": false,
+            "title": "Untitled",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAEg9Lk5DMVRIN1xPPF1QPV5RPl9RPmFUQGNVQ2NWQmpcR3doUnhpUnxtVol4YIp5YYp6YaOPcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAEAAUAAAURIII4TFE4zRAsjjIIRRMhQAgAOw==",
+                "width": 7230,
+                "height": 9161,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "1988.157.57",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1925,
+            "date_end": 1935,
+            "date_display": "c. 1930",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Lee Miller\nAmerican, 1907\u20131977",
+            "place_of_origin": "Poughkeepsie",
+            "description": null,
+            "short_description": null,
+            "dimensions": "Image/paper: 34.5 \u00d7 27.4 cm (13 5/8 \u00d7 10 13/16 in.); Mount: 55.5 \u00d7 45.5 cm (21 7/8 \u00d7 17 15/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 27,
+                    "height": 34,
+                    "diameter": null,
+                    "clarification": "Image/paper"
+                },
+                {
+                    "depth": null,
+                    "width": 45,
+                    "height": 55,
+                    "diameter": null,
+                    "clarification": "Mount"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": "Unmarked recto; verso unchecked",
+            "credit_line": "Julien Levy Collection, Gift of Jean Levy and the Estate of Julien Levy",
+            "catalogue_display": null,
+            "publication_history": "Travis, David. 1976. \u201cPhotographs from the Julien Levy Collection: Starting with Atget.\u201d Exh. cat. p. 52, cat. 85.\n\nLivingston, Jane. 1989. \u201cLee Miller: Photographer.\u201d Exh. cat. California/International Arts Foundation/New York: Thames and Hudson. p. 106. (reproduction image is rotated 90 degrees counter-clockwise, alternate title, alternate date)\n\nTravis, David. 2005. \"Paris: Photographs from a Time that Was\"  Art Institute of Chicago/Yale University Press. p. 57.",
+            "exhibition_history": "Art Institute of Chicago, \u201cPhotographs from the Julien Levy Collection: Starting with Atget,\u201d December 11, 1976\u2013February 20, 1977; traveled to the International Center of Photography, New York, April 21-May 29, 1977; San Francisco Museum of Modern Art, November 4-December 18 1977; Fogg Museum, Cambridge, Massachusetts, January 13-Ferbruary 26, 1978; Lakeview Center for the Arts and Sciences, Peoria, Illinois, March 16-April 30, 1978; and Cincinnati Art Museum, November 17-December 24, 1978. (David Travis)\n\nWashington, D.C., Corcoran Gallery of Art, \"Lee Miller: Photographer,\" February 11-April 17, 1989; traveled to New Orleans Museum of Art, July 15-August 20, 1989; Minneapolis Institute of Art, November 4-January 7, 1990; San Francisco Museum of Modern Art, February 2-April 1, 1990 (?); International Center of Photography, New York, April 13-June 10, 1990; Art Institute of Chicago, June 23-August 26, 1990; Santa Monica Museum of Art, September 16-November 4, 1990; Yokohama Museum of Art, Japan, January 26-February 25, 1991.\n\nArt Institute of Chicago, \"Brassai and Company,\" January 24-May 17, 1998. (David Travis) \n\nArt Institute of Chicago, \"Paris: Photographs from a Time that Was,\" August 13-November 6, 2005, (David Travis)\n\nArt Institute of Chicago, \"The Other Side of Light:  Shadows from the Photography Collection\" December 1, 2007 - February 24, 2008.  (Newell G Smith)",
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 20,
+            "fiscal_year": 1988,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 35783,
+            "artist_title": "Lee Miller",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                35783
+            ],
+            "artist_titles": [
+                "Lee Miller"
+            ],
+            "category_ids": [
+                "PC-12",
+                "PC-825"
+            ],
+            "category_titles": [
+                "Photography and Media",
+                "Women artists"
+            ],
+            "term_titles": [
+                "avant-garde",
+                "photography",
+                "photography",
+                "Paris",
+                "black-and-white photography",
+                "gelatin silver (developing-out-paper) pr",
+                "20th Century",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic process",
+                "photographic paper",
+                "photograph",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "style_id": "TM-14181",
+            "style_title": "avant-garde",
+            "alt_style_ids": [
+                "TM-13130"
+            ],
+            "style_ids": [
+                "TM-14181",
+                "TM-13130"
+            ],
+            "style_titles": [
+                "avant-garde",
+                "20th Century"
+            ],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-213",
+                "TM-68",
+                "TM-240"
+            ],
+            "classification_titles": [
+                "photography",
+                "gelatin silver (developing-out-paper) pr",
+                "photographic process",
+                "photograph"
+            ],
+            "subject_id": "TM-12405",
+            "alt_subject_ids": [],
+            "subject_ids": [
+                "TM-12405"
+            ],
+            "subject_titles": [
+                "Paris"
+            ],
+            "material_id": "TM-14147",
+            "alt_material_ids": [
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_ids": [
+                "TM-14147",
+                "TM-13848",
+                "TM-13906",
+                "TM-3250",
+                "TM-13158",
+                "TM-3046"
+            ],
+            "material_titles": [
+                "photography",
+                "photoprint",
+                "photographic print",
+                "photographic materials",
+                "photographic images",
+                "photographic paper"
+            ],
+            "technique_id": "TM-12089",
+            "alt_technique_ids": [
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_ids": [
+                "TM-12089",
+                "TM-3937",
+                "TM-3977",
+                "TM-3978"
+            ],
+            "technique_titles": [
+                "black-and-white photography",
+                "photographic processes",
+                "photographic techniques",
+                "photography"
+            ],
+            "theme_titles": [
+                "Women artists"
+            ],
+            "image_id": "cb75cbc8-a93a-1e85-f090-47e4bda1ed6a",
+            "alt_image_ids": [
+                "4c84b2b1-1988-8cc0-92f9-e2fdfaa29e31"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1988.157.57"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Untitled"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:57-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 95654,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/95654",
+            "is_boosted": false,
+            "title": "Near the Lake",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEBPPkpLO0dVRlRbQFdWWmBfS1llXVdtXlxzXGZgT2piTG1nTGRsSmxvVmt2Vl9wZW9pY3RwY2h/dnmMbHSEf3+Se3+Tf4CJY4CIc4eUh42Rg46ilY6imJqqogAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYICAc0oMETsVZW3JNWtYZChQtA1E0FMaEADs=",
+                "width": 13618,
+                "height": 11401,
+                "alt_text": "Surrounded by lush, bright foliage, man and a young girl at close range lean against a fence near a lake. The man is smoking, and both wear straw hats."
+            },
+            "main_reference_number": "1922.439",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1879,
+            "date_end": 1880,
+            "date_display": "1879\u201380",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Pierre-Auguste Renoir (French, 1841\u20131919)",
+            "place_of_origin": "France",
+            "description": null,
+            "short_description": null,
+            "dimensions": "47.5 \u00d7 56.4 cm (18 11/16 \u00d7 22 3/16 in.); Framed: 65.8 \u00d7 74.3 \u00d7 8.6 cm (25 7/8 \u00d7 29 1/4 \u00d7 3 3/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": null,
+                    "width": 56,
+                    "height": 47,
+                    "diameter": null,
+                    "clarification": null
+                },
+                {
+                    "depth": 8,
+                    "width": 74,
+                    "height": 65,
+                    "diameter": null,
+                    "clarification": "Framed"
+                }
+            ],
+            "medium_display": "Oil on canvas",
+            "inscriptions": "Inscribed lower right: Renoir",
+            "credit_line": "Potter Palmer Collection",
+            "catalogue_display": null,
+            "publication_history": "American Association for the Promotion and Encouragement of Art, Catalogue of Celebrated Paintings by Great French Masters: Brought to This Country from Paris, for Exhibition Only, exh. cat. (National Academy of Design, New York, 1887), p. 43, no. 185.\n\nArt Institute of Chicago, Handbook of Sculpture, Architecture, and Paintings, pt. 2, Paintings (Art Institute of Chicago, 1922), p. 69, cat. 846.\n\nArt Institute of Chicago, \u201cAccessions and Loans,\u201d Bulletin of the Art Institute of Chicago 16, 3 (May 1922), p. 47.\n\nArt Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Art Institute of Chicago, 1925), p. 150, cat. 846.\n\nM. C., \u201cRenoirs in the Institute,\u201d Bulletin of the Art Institute of Chicago 19, 3 (Mar. 1925), pp. 32 (ill.), 33.\n\nArt Institute of Chicago, Catalogue of \u201cA Century of Progress\u201d: Exhibition of Paintings and Sculpture; Lent from American Collections, ed. Daniel Catton Rich, 3rd ed., exh. cat. (Art Institute of Chicago, 1933), p. 49, cat. 347.\n\nDaniel Catton Rich, \u201cFranz\u00f6sische Impressionisten im Art Institute zu Chicago,\u201d Pantheon: Monatsschrift f\u00fcr Freunde und Sammler der Kunst 11, 3 (Mar. 1933), p. 77. Translated by C. C. H. Drechsel as \u201cFrench Impressionists in the Art Institute of Chicago,\u201d Pantheon/Cicerone (Mar. 1933), p. 18.\n\nArt Institute of Chicago, Catalogue of \u201cA Century of Progress\u201d: Exhibition of Paintings and Sculpture, 1934, ed. Daniel Catton Rich, exh. cat. (Art Institute of Chicago, 1934), p. 40, cat. 236.\n\n\u201cTechnique of Painting\u2014II, A Study of Impressionism,\u201d Coronet 6, 2 (June 1, 1939), p. 102 (ill.).\n\nArt Institute of Chicago, \u201cThe United States Now an Art Publishing Center,\u201d Bulletin of the Art Institute of Chicago 36, 2 (Feb. 1942), p. 30.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Art Institute of Chicago, 1961), p. 396.\n\nFran\u00e7ois Daulte, Auguste Renoir: Catalogue raisonn\u00e9 de l\u2019oeuvre peint, vol. 1, Figures, 1860\u20131890 (Durand-Ruel, 1971), pp. 232\u201333, cat. 306 (ill.).\n\nArt Institute of Chicago, Paintings by Renoir, exh. cat. (Art Institute of Chicago, 1973), pp. 84; 86\u201387, cat. 29 (ill.).\n\nArt Institute of Chicago, Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago, with an introduction by James N. Wood (Art Institute of Chicago/Abbeville, 1993), pp. 10, 81 (ill.).\n\nEliza E. Rathbone, Katherine Rothkopf, Richard R. Brettell, and Charles S. Moffett, Impressionists on the Seine: A Celebration of Renoir\u2019s \u201cLuncheon of the Boating Party,\u201d exh. cat. (Phillips Collection/Counterpoint, 1996), pp. 208, pl. 50; 259.\n\nEliza E. Rathbone, \u201cRenoir\u2019s Luncheon of the Boating Party: Tradition and the New,\u201d in Eliza E. Rathbone, Katherine Rothkopf, Richard R. Brettell, and Charles S. Moffett, Impressionists on the Seine: A Celebration of Renoir\u2019s \u201cLuncheon of the Boating Party,\u201d exh. cat. (Phillips Collection/Counterpoint, 1996), p. 34.\n\nDouglas W. Druick, Renoir, Artists in Focus (Art Institute of Chicago/Abrams, 1997), pp. 6; 47\u201348; 72; 81 (detail); 92, pl. 11; 110.\n\nCharles Moffett, \u201cPierre-Auguste Renoir, Young Women at the Water\u2019s Edge,\u201d in The Bellagio Gallery of Fine Art, Impressionists and Modern Masters, ed. Libby Lumpkin, exh. cat. (Bellagio Gallery of Fine Art, Mirage Resorts, 1998), p. 47.\n\nGilles N\u00e9ret, Renoir: Painter of Happiness, 1841\u20131919, trans. Josephine Bacon (Taschen, 2001), p. 129 (ill.).\n\nColin B. Bailey, \u201c\u2018The Greatest Luminosity, Colour and Harmony\u2019: Renoir\u2019s Landscapes, 1862\u20131883,\u201d in Renoir Landscapes, 1865\u20131883, ed. Colin B. Bailey and Christopher Riopelle, exh. cat. (National Gallery, London, 2007), p. 65.\n\nGuy-Patrice Dauberville and Michel Dauberville, with the collaboration of Camille Fr\u00e9montier-Murphy, Renoir: Catalogue raisonn\u00e9 des tableaux, pastels, dessins et aquarelles, vol. 1, 1858\u20131881 (Bernheim-Jeune, 2007), p. 260, cat. 216 (ill.).\n\nJohn Zarobell, \u201cBy the Water, 1879\u201380,\u201d in Renoir Landscapes, 1865\u20131883, ed. Colin B. Bailey and Christopher Riopelle, exh. cat. (National Gallery, London, 2007), pp. 210\u201311, cat. 49 (ill.). Translated as John Zarobell, \u201cAu bord de l\u2019eau, 1879\u20131880,\u201d in Les paysages de Renoir, 1865\u20131883, ed. Colin B. Bailey and Christopher Riopelle, trans. Marie-Fran\u00e7oise Dispa, Lise-\u00c9liane Pomier, and Laura Meijer, exh. cat. (National Gallery, London/5 Continents, 2007), pp. 210\u201311, cat. 49 (ill.).\n\nGloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Impressionists: Master Paintings from the Art Institute of Chicago, exh. cat. (Art Institute of Chicago/Kimbell Art Museum, 2008), pp. 72\u201373, cat. 27 (ill.); 178 (detail). Simultaneously published as Gloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Age of Impressionism at the Art Institute of Chicago (Art Institute of Chicago/Yale University Press, 2008), pp. 72\u201373, cat. 27 (ill.); 178 (detail).\n\nPascal Bonafoux, Correspondances impressionnistes, vol. 1 (Diane de Selliers, 2008), p. 99 (ill.).\n\n\u201cCat. 10: Near the Lake, 1879/80,\u201d in Renoir Paintings and Drawings at the Art Institute of Chicago, ed. Gloria Groom and Jill Shaw (Art Institute of Chicago, 2014), <a href=\"https://publications.artic.edu/renoir/reader/paintingsanddrawings/section/138973\">https://publications.artic.edu/renoir/reader/paintingsanddrawings/section/138973</a>.",
+            "exhibition_history": "New York, National Academy of Design, Celebrated Paintings by Great French Masters, May 25\u2013June 30, 1887, cat. 185.\n\nArt Institute of Chicago, \u201cA Century of Progress\u201d: Loan Exhibition of Paintings and Sculpture, May 23\u2013Nov. 1, 1933, cat. 347.\n\nArt Institute of Chicago, \u201cA Century of Progress\u201d: Loan Exhibition of Paintings and Sculpture for 1934, June 1\u2013Oct. 31, 1934, cat. 236.\n\nNew York, Metropolitan Museum of Art, Apr. 4\u2013May 18, 1952, no cat.\n\nArt Institute of Chicago, Paintings by Renoir, Feb. 3\u2013Apr. 1, 1973, cat. 29 (ill.).\n\nWashington, D.C., Phillips Collection, Impressionists on the Seine: A Celebration of Renoir\u2019s \u201cLuncheon of the Boating Party,\u201d  Sept. 21, 1996\u2013Feb. 23, 1997, cat. 50 (ill.).\n\nOttawa, National Gallery of Canada, Renoir\u2019s Portraits: Impressions of an Age, June 27\u2013Sept. 14, 1997, not in cat.; Art Institute of Chicago, Oct. 17, 1997\u2013Jan. 4, 1998; Fort Worth, Tex., Kimbell Art Museum, Feb. 8\u2013Apr. 26, 1998 (Chicago only).\n\nLondon, National Gallery, Renoir Landscapes, 1865\u20131883, Feb. 21\u2013May 20, 2007, cat. 49 (ill.); Ottawa, National Gallery of Canada, June 8\u2013Sept. 9, 2007; Philadelphia Museum of Art, Oct. 4, 2007\u2013Jan. 6, 2008.\n\nFort Worth, Tex., Kimbell Art Museum, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013Nov. 2, 2008, cat. 27 (ill.).\n\nParis, Mus\u00e9e d\u2019Orsay, Renoir in Love, Mar. 17\u2013July 19, 2026; London, National Gallery, Oct. 3, 2026\u2013Jan. 31, 2027; Boston, Museum of Fine Arts, Feb. 20\u2013June 30, 2027.",
+            "provenance_text": "Durand-Ruel, Paris, Sept. 24, 1886 [per Durand-Ruel, Paris, stock book for 1884\u201390 (no. 1340, Au bord du lac), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, Oct. 5, 2010, curatorial object file]; acquired by Durand-Ruel, New York, about 1888 [per Durand-Ruel, New York, stock book for 1888\u201391 (no. 141, Au bord du lac), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, Oct. 5, 2010, curatorial object file]; sold to Potter Palmer (d. 1902), Chicago, Mar. 2, 1892, for $900. [per Durand-Ruel, New York, stock book for 1888\u201393 (no. 197, Au bord du lac), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, Oct. 5, 2010, curatorial object file]; by decent to the Palmer family; given to the Art Institute of Chicago, 1922.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 14,
+            "fiscal_year": 1922,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": true,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 33.0045,
+            "color": {
+                "h": 64,
+                "l": 42,
+                "s": 47,
+                "percentage": 0.0183404423580088,
+                "population": 109
+            },
+            "latitude": 41.8796144488149,
+            "longitude": -87.6232942566275,
+            "latlon": "41.879614448815,41.879614448815",
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan to Mus\u00e9e d'Orsay in Paris for <i>Renoir and Love</i></p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Painting and Sculpture of Europe",
+            "department_id": "PC-10",
+            "artist_id": 36351,
+            "artist_title": "Pierre-Auguste Renoir",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36351
+            ],
+            "artist_titles": [
+                "Pierre-Auguste Renoir"
+            ],
+            "category_ids": [
+                "PC-10"
+            ],
+            "category_titles": [
+                "Painting and Sculpture of Europe"
+            ],
+            "term_titles": [
+                "Impressionism",
+                "painting",
+                "oil painting",
+                "landscapes",
+                "oil paint (paint)",
+                "water",
+                "vines",
+                "trees",
+                "sailing",
+                "road",
+                "paths",
+                "nature",
+                "lake",
+                "hat",
+                "girl",
+                "foliage",
+                "boats",
+                "nineteenth century",
+                "19th century",
+                "painting techniques",
+                "painting (image making)",
+                "painting",
+                "painting",
+                "paint",
+                "canvas",
+                "paint",
+                "oil on canvas",
+                "oil paintings (visual works)",
+                "french",
+                "european painting",
+                "children",
+                "leisure",
+                "weather/seasons",
+                "men",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs"
+            ],
+            "style_id": "TM-7543",
+            "style_title": "Impressionism",
+            "alt_style_ids": [
+                "TM-15636",
+                "TM-13203"
+            ],
+            "style_ids": [
+                "TM-7543",
+                "TM-15636",
+                "TM-13203"
+            ],
+            "style_titles": [
+                "Impressionism",
+                "nineteenth century",
+                "19th century"
+            ],
+            "classification_id": "TM-9",
+            "classification_title": "painting",
+            "alt_classification_ids": [
+                "TM-10387",
+                "TM-66",
+                "TM-78",
+                "TM-14976",
+                "TM-54"
+            ],
+            "classification_ids": [
+                "TM-9",
+                "TM-10387",
+                "TM-66",
+                "TM-78",
+                "TM-14976",
+                "TM-54"
+            ],
+            "classification_titles": [
+                "painting",
+                "paint",
+                "oil on canvas",
+                "oil paintings (visual works)",
+                "french",
+                "european painting"
+            ],
+            "subject_id": "TM-8657",
+            "alt_subject_ids": [
+                "TM-8681",
+                "TM-11863",
+                "TM-11205",
+                "TM-12236",
+                "TM-14244",
+                "TM-15006",
+                "TM-12261",
+                "TM-14517",
+                "TM-15651",
+                "TM-15436",
+                "TM-11206",
+                "TM-8737",
+                "TM-10118",
+                "TM-10094",
+                "TM-10095",
+                "TM-10121",
+                "TM-12169",
+                "TM-11299",
+                "TM-12176"
+            ],
+            "subject_ids": [
+                "TM-8657",
+                "TM-8681",
+                "TM-11863",
+                "TM-11205",
+                "TM-12236",
+                "TM-14244",
+                "TM-15006",
+                "TM-12261",
+                "TM-14517",
+                "TM-15651",
+                "TM-15436",
+                "TM-11206",
+                "TM-8737",
+                "TM-10118",
+                "TM-10094",
+                "TM-10095",
+                "TM-10121",
+                "TM-12169",
+                "TM-11299",
+                "TM-12176"
+            ],
+            "subject_titles": [
+                "landscapes",
+                "water",
+                "vines",
+                "trees",
+                "sailing",
+                "road",
+                "paths",
+                "nature",
+                "lake",
+                "hat",
+                "girl",
+                "foliage",
+                "boats",
+                "children",
+                "leisure",
+                "weather/seasons",
+                "men",
+                "Century of Progress",
+                "world's fairs",
+                "Chicago World's Fairs"
+            ],
+            "material_id": "TM-2451",
+            "alt_material_ids": [
+                "TM-13502",
+                "TM-2577",
+                "TM-3124"
+            ],
+            "material_ids": [
+                "TM-2451",
+                "TM-13502",
+                "TM-2577",
+                "TM-3124"
+            ],
+            "material_titles": [
+                "oil paint (paint)",
+                "painting",
+                "paint",
+                "canvas"
+            ],
+            "technique_id": "TM-4273",
+            "alt_technique_ids": [
+                "TM-3971",
+                "TM-3891",
+                "TM-14210"
+            ],
+            "technique_ids": [
+                "TM-4273",
+                "TM-3971",
+                "TM-3891",
+                "TM-14210"
+            ],
+            "technique_titles": [
+                "oil painting",
+                "painting techniques",
+                "painting (image making)",
+                "painting"
+            ],
+            "theme_titles": [],
+            "image_id": "26e1c560-acca-3148-46dc-c144ac22bd3e",
+            "alt_image_ids": [],
+            "document_ids": [
+                "89c23ecc-8b7b-a914-2ff0-4f9e61afcf19"
+            ],
+            "sound_ids": [
+                "89c23ecc-8b7b-a914-2ff0-4f9e61afcf19"
+            ],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [
+                36743538708
+            ],
+            "section_titles": [
+                "Cat. 10 \u00a0Near the Lake, 1879/80"
+            ],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1922.439"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Near the Lake"
+                    ],
+                    "weight": 14837,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:56-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 99512,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/99512",
+            "is_boosted": false,
+            "title": "Sanctuary",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALunkci4pca6rM3EudrKt9XOxtzX0d3Z09vY1N7c2uPaz+Ld1+Xi3eHi4+/s6O/t6fHv6vHy8vLy8vf39gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCIMzVMYErQwk3MgkRIARAgAOw==",
+                "width": 2936,
+                "height": 3670,
+                "alt_text": "A tall, wooden sculpture that leans against the gallery wall. A hollow box at the top is supported by two wooden branches that connect to a wheel at the bottom. The rough tree branches contrast with the refined wood of the box."
+            },
+            "main_reference_number": "1982.1473",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1982,
+            "date_end": 1982,
+            "date_display": "1982",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Martin Puryear\nAmerican, born 1941",
+            "place_of_origin": "United States",
+            "description": "<p>In 1977 a fire destroyed a vast body of Martin Puryear\u2019s sculpture, as well as many of the artist\u2019s worldly possessions. Resulting in what he called \u201ca period of grieving followed by an incredible lightness and freedom\u201d the event proved pivotal in directing the artist\u2019s subsequent work. One year later, Puryear began a series of sculptures around the themes of movement and shelter. <em>Sanctuary</em> embodies what he described as \u201cmobility with a kind of escapism, of survival through flight.\u201d The sculpture appears to be in a state of arrested motion. This whimsical and sophisticated work reconciles a longing for stability with a need for change. By pairing the wild tree saplings with a carefully fashioned shelter, Puryear celebrated the beauty of wood in both its natural and refined states.</p>\n",
+            "short_description": "After a fire destroyed a vast body of Martin Puryear's artworks, he began a series of sculptures based on the themes of movement and shelter. The whimsical <em>Sanctuary</em> appears to be in a state of arrested motion as it reconciles a longing for stability with a need for change. The pairing the wild tree saplings with a carefully fashioned shelter embodies what Puryear described as \u201cmobility with a kind of escapism, of survival through flight.\u201d",
+            "dimensions": "320 \u00d7 61 \u00d7 45.7 cm (126 \u00d7 24 \u00d7 18 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": 45,
+                    "width": 61,
+                    "height": 320,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Pine, maple and cherry",
+            "inscriptions": null,
+            "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+            "catalogue_display": null,
+            "publication_history": "A. James Speyer and Anne Rorimer, 74th American Exhibition, exh. cat. (Chicago: Art Institute of Chicago, 1982), 7, 39, cat. 47.\n\nKynaston McShine, An International Survey of Recent Painting and Sculpture, exh. cat. (New York: Museum of Modern Art, 1984), 259 (ill.).\n\nHugh M. Davies, Helaine Posner, Martin Puryear, exh. cat. (Amherst: University Gallery, University of Massachusetts at Amherst, 1984), 30 (ill.).\n\nDeven K. Golden, Patricia Fuller, and Judith Russi Kirshner, Martin Puryear: Public and Personal, exh. cat. (Chicago: Chicago Public Library and Department of Cultural Affairs, 1987), 10, 18, 29 (ill.).\n\nAnn Lee Morgan, \u201cMartin Puryear: Sculpture as Elemental Expression,\u201d New Art Examiner 14, no. 9 (May 1987): 28.\n\nColin Westerbeck, \u201cMartin Puryear: Chicago Public Library Cultural Council,\u201d Artforum 25 (May 1987): 154.\n\nSusan Krane, Structure to Resemblance: Work by Eight American Sculptors, exh. cat. (Buffalo, NY: Albright-Knox Art Gallery, 1987), 40 (ill.), 43, 61, cat. 20.\n\nNeal Benezra, Robert Storr, and James N. Wood, Martin Puryear, exh. cat. (Chicago: Art Institute of Chicago, 1991), 30, 84, 85 (color ill.), 136, cat. 17, 145, 148, 150-151.\n\nRobert Hughes, \u201cDelight in a Shaping hand,\u201d Time, Mar. 2, 1992, 62.\n\nMichael Brenson and Enrique Juncosa, Martin Puryear, exh. cat. (Madrid: Fundaci\u00f3n \"La Caixa,\u201d 1997), 22 (color ill.), fig. 6, as Santuario / Sanctuary.\n\nSusan F. Rossen, \u201cIntroduction,\u201d Art Institute of Chicago Museum Studies 24, 2 (1999), 141.\n\nJohn Elderfield, Michael Auping, Elizabeth Reede, Richard J. Powell, and Jennifer Field, Martin Puryear, exh. cat. (New York: Museum of Modern Art, 2007), 25-26, 130 (color ill.), 165, cat. 16, 175.\n\nBryan J. Wolf, \u201cUp/Down in Two Sculptures by Martin Puryear,\u201d American Art 25, no. 1 (2011): 22, 23 (color ill.), 24.\n\nMark Pascale and Ruth Fine, Martin Puryear: Multiple Dimensions, exh. cat. (Chicago: Art Institute of Chicago, 2015), 10, 84, 85 (color ill.).\n\nAntawan Byrd, Elvira Dyangani Ose, Adom Getachew, Matthew S.Witkovsky, KJ Abudu, Project a Black Planet: The Art and Culture of Panafrica, exh. cat. (Chicago: Art Institute of Chicago, 2024), 148, fig. 201 (color ill.).\n\nReto Th\u00fcring, Rizvana Bradley, Joan Kee, Michelle Millar Fisher, and Ugochukwu-Smooth C. Nzewi, Emily Liebert, ed., Martin Puryear: Nexus, exh. cat. (Cleveland: The Cleveland Museum of Art, 2025), 54, cat. 22 (color ill.), 177, 205, cat. 22.",
+            "exhibition_history": "Art Institute of Chicago, 74th American Exhibition, June 12\u2013Aug. 1, 1982, cat. 47.\n\nNew York, Museum of Modern Art, International Survey of Recent Painting and Sculpture, May 17\u2013Aug. 19, 1984, no cat. no. \n\nChicago, Chicago Public Library Cultural Center, Martin Puryear: Public and Personal, Feb. 7\u00ac\u2013Apr. 4, 1987, no cat. no.\n\nBuffalo, NY, Albright-Knox Art Gallery, Structure to Resemblance: Work by Eight American Sculptors, June 12\u2013Aug. 23, 1987, cat. 20.\n\nArt Institute of Chicago, Martin Puryear, Nov. 2, 1991\u2013Jan. 5, 1992, cat. 17; Washington D.C., Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Feb. 5-May 10, 1992; Los Angeles, The Museum of Contemporary Art, July 26\u2013Oct. 4, 1992; Philadelphia Museum of Art, Nov. 8, 1992\u2013Jan. 3, 1993. \n\nNew York, The Museum of Modern Art, Puryear, Nov. 4, 2007\u2013Jan. 14, 2008, cat. 16; Fort Worth, Modern Art Museum of Fort Worth, Feb. 24\u2013May 18, 2008, Washington D.C., National Gallery of Art, Smithsonian Institution, June 22\u2013Sept. 28, 2008; San Francisco, San Francisco Museum of Modern Art, Nov. 8, 2008\u2013Jan, 25, 2009. \n\nNew York, Morgan Library and Museum, Martin Puryear: Multiple Dimensions, Oct. 9, 2015\u2013Jan. 10, 2016, cat. 41; Art Institute of Chicago, Feb. 5\u2013May 1, 2016; Washington D.C., \nSmithsonian Institution. American Art Museum, May 26\u2013Sept. 4, 2016.\n\nArt Institute of Chicago, Project a Black Planet: The Art and Culture of Panafrica, Dec. 15, 2024\u2013Mar. 30, 2025, no cat. no.; Barcelona, Museu d'Art Contemporani, Nov. 5, 2025\u2013Apr. 6, 2026; London, Barbican Centre for Arts and Conferences, June 10\u2013Sept. 6, 2026; Brussels,\nKANAL\u2013Centre Pompidou, Nov. 19, 2026\u2013Mar. 7, 2027. (Chicago only).\n\nBoston, Museum of Fine Arts, Martin Puryear: Nexus, Sept. 27, 2025-Feb. 8, 2026, cat. 22; The Cleveland Museum of Art, Apr. 12, 2026-Aug. 9, 2026; Atlanta, High Museum of Art, Sept. 25, 2026-Jan. 17, 2027.",
+            "provenance_text": "The artist; sold through Young Hoffman Gallery, Chicago, to the Art Institute of Chicago, Dec. 20, 1982.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 246,
+            "fiscal_year": 1983,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": true,
+            "max_zoom_window_size": 1280,
+            "copyright_notice": "\u00a9 Martin Puryear",
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 23.2588,
+            "color": {
+                "h": 4,
+                "l": 68,
+                "s": 8,
+                "percentage": 0.0011254645354870222,
+                "population": 10
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": "<p>On loan</p>",
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Sculpture",
+            "artwork_type_id": 3,
+            "department_title": "Contemporary Art",
+            "department_id": "PC-8",
+            "artist_id": 36290,
+            "artist_title": "Martin Puryear",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36290
+            ],
+            "artist_titles": [
+                "Martin Puryear"
+            ],
+            "category_ids": [
+                "PC-8",
+                "PC-830",
+                "PC-142"
+            ],
+            "category_titles": [
+                "Contemporary Art",
+                "African Diaspora",
+                "African American artists"
+            ],
+            "term_titles": [
+                "sculpture",
+                "modern and contemporary art"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-13",
+            "classification_title": "sculpture",
+            "alt_classification_ids": [
+                "TM-155"
+            ],
+            "classification_ids": [
+                "TM-13",
+                "TM-155"
+            ],
+            "classification_titles": [
+                "sculpture",
+                "modern and contemporary art"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [
+                "African Diaspora",
+                "African American artists"
+            ],
+            "image_id": "2e318880-2be0-a036-4e37-b15ac0b9752b",
+            "alt_image_ids": [
+                "8a7d3fb3-4ccf-101c-7bb9-d7a925872eed"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1982.1473"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Sanctuary"
+                    ],
+                    "weight": 5758,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:55-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        },
+        {
+            "id": 112100,
+            "api_model": "artworks",
+            "api_link": "https://api.artic.edu/api/v1/artworks/112100",
+            "is_boosted": false,
+            "title": "Burgonet",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADw7PF1bWnBxdHZ1d3p6enx8e3l6fH5/f39/g4WEhImLi5GQkJOTk5aUk5mZmJ6fnqSlpq6vrrazr7S0tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4LAgAiE1RhIAClMcz+RAUQgAOw==",
+                "width": 1762,
+                "height": 2250,
+                "alt_text": "A work made of steel."
+            },
+            "main_reference_number": "1982.2501",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1560,
+            "date_end": 1590,
+            "date_display": "c. 1570/80",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Northern Italian",
+            "place_of_origin": "Northern Italy",
+            "description": null,
+            "short_description": null,
+            "dimensions": "26.4 \u00d7 21.6 \u00d7 33.1 cm (10 3/8 \u00d7 8 1/2 \u00d7 13 in.)",
+            "dimensions_detail": [
+                {
+                    "depth": 33,
+                    "width": 21,
+                    "height": 26,
+                    "diameter": null,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Steel",
+            "inscriptions": null,
+            "credit_line": "George F. Harding Collection",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": 1982,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 4.0598,
+            "color": {
+                "h": 204,
+                "l": 54,
+                "s": 0,
+                "percentage": 0.34451661837921743,
+                "population": 3125
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "nomisma_id": null,
+            "artwork_type_title": "Armor",
+            "artwork_type_id": 29,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": null,
+            "artist_title": null,
+            "alt_artist_ids": [],
+            "artist_ids": [],
+            "artist_titles": [],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "suit-helmet",
+                "armor",
+                "arms and armor"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-1132",
+            "classification_title": "suit-helmet",
+            "alt_classification_ids": [
+                "TM-64",
+                "TM-351"
+            ],
+            "classification_ids": [
+                "TM-1132",
+                "TM-64",
+                "TM-351"
+            ],
+            "classification_titles": [
+                "suit-helmet",
+                "armor",
+                "arms and armor"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "9b2da653-3dcf-6ec8-fe11-de5dc820c34a",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1982.2501"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Burgonet"
+                    ],
+                    "weight": 362,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2026-03-21T00:30:01-05:00",
+            "updated_at": "2026-03-21T00:56:54-05:00",
+            "timestamp": "2026-03-21T00:57:03-05:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.14"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}
