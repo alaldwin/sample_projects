@@ -17,6 +17,7 @@ def save_raw_json(data, filename="art_data.json"):
 def save_raw_csv(data, filename="art_data.csv"):
     if isinstance(data, dict):
         data = data.get("articles", data.get("data", data))
+        
     df = pd.DataFrame(data)
     df.to_csv(filename, index=False)
     return df
