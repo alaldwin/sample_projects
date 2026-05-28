@@ -24,14 +24,16 @@ def save_raw_csv(data, filename="art_data.csv"):
 
 def data_transform(df):
     df_clean = df.copy()
+
     df_clean = df_clean.drop_duplicates(subset=["api_model", "api_link"], keep="first")
-    df_clean = df_clean[["id", "api_model", "api_link", "updated_at", "suggest_autocomplete_boosted"]].fillna("unkown")
+
+    df_clean = df_clean[["id", "api_model", "api_link", "api_link", "is_boosted", "title", "main_reference_number", "has_not_been_viewed_much", "boost_rank", "date_start", "date_end", "date_display", "artist_display", "place_of_origin", "dimensions"]].fillna("unkown")
+
     df_clean = df_clean.rename(columns={
         "api_model": "models",
         "api_link": "links",
         "updated_at": "update_time",
-        "timestamp": "datetime",
-        "suggest_autocomplete_boosted": "auto_boosted"
+        "timestamp": "datetime"
     })
 
     return df_clean
