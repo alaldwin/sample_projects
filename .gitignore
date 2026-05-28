@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .gitignore
-.train_project
-.'public api_project'
+train_project/
+public api_project/
