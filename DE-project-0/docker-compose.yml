@@ -1,0 +1,29 @@
+
+services:
+  etl:
+    build: .
+    container_name: season_etl
+
+    env_file:
+      - .env
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: python season_etl.py
+
+  test:
+    build: .
+    container_name: season_test
+
+    env_file:
+      - .env
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: pytest test/ -v

@@ -1,0 +1,24 @@
+2026-05-14 16:07:18,012 - INFO - Healthcare ETL Job Started.
+2026-05-14 16:07:18,013 - INFO - CSV files loaded successfully.
+2026-05-14 16:07:18,620 - INFO - Transforming healthcare data.
+2026-05-14 16:07:18,906 - ERROR - Unexpected error: 'name'
+2026-05-14 16:08:12,299 - INFO - Healthcare ETL Job Started.
+2026-05-14 16:08:12,300 - INFO - CSV files loaded successfully.
+2026-05-14 16:08:12,639 - INFO - Transforming healthcare data.
+2026-05-14 16:08:12,976 - INFO - Loading transformed data.
+2026-05-14 16:08:26,136 - ERROR - Unexpected error: Failed to upload healthcare_clean_data.csv to health-processed-data/processed/healthcare_clean_data.csv: An error occurred (NoSuchBucket) when calling the CreateMultipartUpload operation: The specified bucket does not exist
+2026-05-14 16:13:29,686 - INFO - Healthcare ETL Job Started.
+2026-05-14 16:13:29,687 - INFO - CSV files loaded successfully.
+2026-05-14 16:13:29,933 - INFO - Transforming healthcare data.
+2026-05-14 16:13:30,320 - INFO - Loading transformed data.
+2026-05-14 16:13:38,454 - ERROR - Unexpected error: Failed to upload healthcare_clean_data.csv to healthcare-processed-data/processed/healthcare_clean_data.csv: An error occurred (NoSuchBucket) when calling the CreateMultipartUpload operation: The specified bucket does not exist
+2026-05-14 16:14:43,055 - INFO - Healthcare ETL Job Started.
+2026-05-14 16:14:43,057 - INFO - CSV files loaded successfully.
+2026-05-14 16:14:43,393 - INFO - Transforming healthcare data.
+2026-05-14 16:14:43,771 - INFO - Loading transformed data.
+2026-05-14 16:14:56,740 - ERROR - Unexpected error: Failed to upload healthcare_clean_data.csv to healthcare-processed-data/processed/healthcare_clean_data.csv: An error occurred (NoSuchBucket) when calling the CreateMultipartUpload operation: The specified bucket does not exist
+2026-05-14 16:16:45,997 - INFO - Healthcare ETL Job Started.
+2026-05-14 16:16:46,000 - INFO - CSV files loaded successfully.
+2026-05-14 16:16:46,515 - INFO - Transforming healthcare data.
+2026-05-14 16:16:46,810 - INFO - Loading transformed data.
+2026-05-14 16:16:49,893 - ERROR - Unexpected error: Failed to upload data/raw/healthcare_dataset.csv to healthcare-processed-data/raw/healthcare_dataset.csv: An error occurred (NoSuchBucket) when calling the CreateMultipartUpload operation: The specified bucket does not exist

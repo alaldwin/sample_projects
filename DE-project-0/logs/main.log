@@ -1,0 +1,21 @@
+2026-05-28 14:48:50,808 - INFO - Extract - Transform - Load (ETL) Is Successful.
+2026-05-28 14:48:50,809 - INFO - Request Is Successful.
+2026-05-28 14:48:53,001 - ERROR - Request Timeout.
+2026-05-28 14:48:53,060 - INFO - Transformation Is Successful.
+2026-05-28 14:48:53,085 - INFO - Load The Dataset In To Database Is Successful.
+2026-05-28 14:48:53,183 - ERROR - connection in data base is successful.
+2026-05-30 06:08:26,868 - INFO - Extract - Transform - Load (ETL) Is Successful.
+2026-05-30 06:08:26,870 - INFO - Request Is Successful.
+2026-05-30 06:08:28,741 - ERROR - Request Timeout.
+2026-05-30 06:08:28,880 - INFO - Transformation Is Successful.
+2026-05-30 06:08:28,923 - INFO - Load The Dataset In To Database Is Successful.
+2026-05-30 06:10:19,903 - INFO - Extract - Transform - Load (ETL) Is Successful.
+2026-05-30 06:10:19,904 - INFO - Request Is Successful.
+2026-05-30 06:10:22,243 - ERROR - Request Timeout.
+2026-05-30 06:10:22,332 - INFO - Transformation Is Successful.
+2026-05-30 06:10:22,355 - INFO - Load The Dataset In To Database Is Successful.
+2026-05-30 06:18:34,880 - INFO - Extract - Transform - Load (ETL) Is Successful.
+2026-05-30 06:18:34,882 - INFO - Request Is Successful.
+2026-05-30 06:18:36,644 - ERROR - Request Timeout.
+2026-05-30 06:18:36,703 - INFO - Transformation Is Successful.
+2026-05-30 06:18:36,730 - INFO - Load The Dataset In To Database Is Successful.
